@@ -1,0 +1,2 @@
+[context.netlify-history-without-rewrites.environment]
+  VUE_APP_ROUTE_MODE = "history"
