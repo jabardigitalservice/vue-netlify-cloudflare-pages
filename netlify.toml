@@ -1,4 +1,4 @@
-[context.netlify-history.environment]
+[context.netlify-history-with-fallback-404.environment]
   VUE_APP_ROUTE_MODE = "history"
 [[redirects]]
   from = "/*"
