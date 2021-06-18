@@ -1,5 +1,5 @@
 [context.netlify-history.environment]
-  VUE_APP_ROUTE_MODE=history
+  VUE_APP_ROUTE_MODE = "history"
 [[redirects]]
   from = "/*"
   to = "/index.html"
